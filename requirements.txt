@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+numpy
+pandas
+plotly
+pillow
+streamlit-drawable-canvas
+scikit-learn
+kagglehub
